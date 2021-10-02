@@ -8,7 +8,8 @@
     "esModuleInterop": true
   },
   "include": [
-    "./example-1"
+    "./example-1",
+    "./example-2"
   ],
   "exclude": [
     "./node_modules"
